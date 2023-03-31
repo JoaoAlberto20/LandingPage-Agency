@@ -31,7 +31,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
       <a href="https://github.com/JoaoAlberto20">
         <img src="https://github.com/JoaoAlberto20.png" width="100px;" alt="Foto do João Alberto no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>João Alberto</b>
         </sub>
       </a>
     </td>
