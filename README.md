@@ -2,7 +2,7 @@
   💻<br>Landing Page Agency
 </h1>
 
-![Resultado final do projeto](assets/img/preview.png)
+![Resultado final do projeto](img/preview.png)
 
 <h4 align="center"><a href="https://project-ecommerce-4bua.vercel.app">Clique para visitar o projeto</a></h4>
 
